@@ -21,7 +21,7 @@ jobs:
 
       - run:
          name: Setup Laravel testing environment variables for CircleCI test
-         command: cp .env.testing .env
+         command: cp .env.example .env
 
       - run:
          name: Update composer to latest version
