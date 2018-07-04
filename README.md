@@ -1,6 +1,7 @@
 # PCSM-SIMS
 PCSM - Student Information Management System
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/892e389d422e4e568d758d702db1dfa3)](https://app.codacy.com/app/PCSM-Edu/PCSM-SIMS?utm_source=github.com&utm_medium=referral&utm_content=PCSM-Edu/PCSM-SIMS&utm_campaign=badger)
 [![Maintainability](https://api.codeclimate.com/v1/badges/efaecbc121fa5ab2dcce/maintainability)](https://codeclimate.com/github/PCSM-Edu/PCSM-SIMS/maintainability)
 [![Test Coverage](https://api.codeclimate.com/v1/badges/efaecbc121fa5ab2dcce/test_coverage)](https://codeclimate.com/github/PCSM-Edu/PCSM-SIMS/test_coverage)
 [![CircleCI](https://circleci.com/gh/PCSM-Edu/PCSM-SIMS/tree/master.svg?style=svg)](https://circleci.com/gh/PCSM-Edu/PCSM-SIMS/tree/master)
