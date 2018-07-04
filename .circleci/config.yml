@@ -42,14 +42,15 @@ jobs:
           key: v1-dependencies-{{ checksum "composer.json" }}
 
       - run:
+                 name: Generate Laravel Key
+                 command: php artisan key:generate
+                 background: true
+
+      - run:
            name: Run Laravel Server
            command: php artisan serve
            background: true
 
-      - run:
-           name: Generate Laravel Key
-           command: php artisan key:generate
-           background: true
 
       - run:
            name: Test 1 - Run Phpunit for Server-Side HTTP Requests & PHP Unit Testing
