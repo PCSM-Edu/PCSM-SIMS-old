@@ -9,6 +9,7 @@
         "backpack/MenuCRUD": "^1.0",
         "backpack/backupmanager": "^1.4",
         "backpack/crud": "^3.4",
+        "backpack/pagemanager": "^1.1",
         "backpack/permissionmanager": "^3.12",
         "backpack/settings": "^2.1",
         "barryvdh/laravel-elfinder": "^0.3.12",
