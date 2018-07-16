@@ -7,3 +7,8 @@ PCSM - Student Information Management System
 [![CircleCI](https://circleci.com/gh/PCSM-Edu/PCSM-SIMS/tree/master.svg?style=svg)](https://circleci.com/gh/PCSM-Edu/PCSM-SIMS/tree/master)
 [![Build Status](https://semaphoreci.com/api/v1/pcsm/pcsm-sims/branches/master/badge.svg)](https://semaphoreci.com/pcsm/pcsm-sims)
 [![Build Status](https://travis-ci.com/PCSM-Edu/PCSM-SIMS.svg?branch=master)](https://travis-ci.com/PCSM-Edu/PCSM-SIMS)
+
+## BrowserStack
+This project runs its tests on multiple devices and mobile browsers using [BrowserStack](http://www.browserstack.com).
+
+<img src="https://cloud.githubusercontent.com/assets/7864462/12837037/452a17c6-cb73-11e5-9f39-fc96893bc9bf.png" height="40" />
